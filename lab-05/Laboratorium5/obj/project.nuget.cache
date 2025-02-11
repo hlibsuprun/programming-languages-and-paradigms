@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hyrs4maPHC4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\w68161\\source\\repos\\Laboratorium5\\Laboratorium5\\Laboratorium5.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\w68161\\.nuget\\packages\\fsharp.core\\8.0.400\\fsharp.core.8.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
