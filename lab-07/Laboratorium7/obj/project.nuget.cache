@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0x4L/xhis0mbqAuTAw71WFDdOSead+chCHAFLsizbr+0ICA9yFrSANL5+D6NqURn2amRhRME29AuOTyxFPRpjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dima\\OneDrive\\Рабочий стол\\Programming\\Project(C#)\\ASP\\Laboratorium7\\Laboratorium7\\Laboratorium7.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dima\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
